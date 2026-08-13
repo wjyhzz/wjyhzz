@@ -2,8 +2,6 @@
 
 ![:wjyhzz](https://count.getloli.com/get/@:wjyhzz?theme=rule34)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=wjyhzz&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/wjyhzz"
