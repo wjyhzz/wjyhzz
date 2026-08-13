@@ -2,5 +2,3 @@
 
 ![:wjyhzz](https://count.getloli.com/get/@:wjyhzz?theme=rule34)
 
-![stats](https://github-readme-stats.vercel.app/api?username=wjyhzz&show_icons=true&theme=radical)
-![streak](https://streak-stats.demolab.com/?user=wjyhzz&theme=radical)
