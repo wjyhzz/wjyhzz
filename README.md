@@ -2,6 +2,4 @@
 
 ![:wjyhzz](https://count.getloli.com/get/@:wjyhzz?theme=rule34)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue)
-![license](https://img.shields.io/badge/license-MIT-green)
-![stars](https://img.shields.io/github/stars/wjyhzz/wjyhzz?style=social)
+![Python](https://skillicons.dev/icons?i=python,go,react,docker)
