@@ -4,6 +4,14 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=wjyhzz&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/wjyhzz"
+  width="600"
+  height="300"
+/>
+</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wjyhzz/wjyhzz/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wjyhzz/wjyhzz/output/github-snake.svg" />
