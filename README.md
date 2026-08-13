@@ -2,6 +2,8 @@
 
 ![:wjyhzz](https://count.getloli.com/get/@:wjyhzz?theme=rule34)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=wjyhzz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wjyhzz/wjyhzz/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wjyhzz/wjyhzz/output/github-snake.svg" />
