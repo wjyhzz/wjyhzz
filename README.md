@@ -2,4 +2,5 @@
 
 ![:wjyhzz](https://count.getloli.com/get/@:wjyhzz?theme=rule34)
 
-![Python](https://skillicons.dev/icons?i=python,go,react,docker)
+![stats](https://github-readme-stats.vercel.app/api?username=wjyhzz&show_icons=true&theme=radical)
+![streak](https://streak-stats.demolab.com/?user=wjyhzz&theme=radical)
